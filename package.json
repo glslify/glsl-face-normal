@@ -28,7 +28,9 @@
     "url": "git://github.com/stackgl/glsl-face-normal.git"
   },
   "keywords": [
-    "ecosystem:stackgl"
+    "ecosystem:stackgl", "face", "faces", "flat", "shading",
+    "stackgl", "glsl", "glslify", "normal", "normals", "pixel",
+    "fragment", "shader"
   ],
   "homepage": "https://github.com/stackgl/glsl-face-normal",
   "bugs": {
