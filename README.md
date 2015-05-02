@@ -2,9 +2,9 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-[(click for demo)](http://stack.gl/glsl-face-normal/)
+[(click for demo)](http://stack.gl/glsl-face-normal/demo)
 
-<!-- iframe: http://stack.gl/glsl-face-normal/ -->
+<!-- iframe: http://stack.gl/glsl-face-normal/demo -->
 
 Approximates face normals in the fragment shader for flat shading from the position in camera space.
 
